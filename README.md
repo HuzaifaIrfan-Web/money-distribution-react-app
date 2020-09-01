@@ -31,7 +31,7 @@ For Development:
 
 For Production Build:
 
-> pnpm run build
+> npm run build
 
 
 
