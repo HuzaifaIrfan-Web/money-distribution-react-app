@@ -1,6 +1,6 @@
 # Money-Distribution-React-App
 
-## Test app Running on https://money-skiie.web.app/
+## Test app Running on https://money.huzaifairfan.com/
 
 Developed By Huzaifa Irfan
 Developed on : 1 September 2020
